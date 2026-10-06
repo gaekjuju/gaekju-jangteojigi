@@ -3,7 +3,7 @@
   <h1>객주 장터지기</h1>
   <p>원하는 거상 거래 소식을 Windows 알림으로 받아보세요.</p>
   <p><strong>Windows 11 · 로그인 없이 사용 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.1.10/Gaekju-Jangteojigi_0.1.10_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.1.11/Gaekju-Jangteojigi_0.1.11_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
@@ -28,9 +28,9 @@
 
 ## 사통팔달을 한눈에 찾아보세요
 
-장터지기 이용자분들이 확인해 주신 사통팔달을 모았어요. **품목·내용**과 **작성자**로 검색하고, 품목·가격·수량·시간을 함께 확인하세요.
+서버에 모인 사통팔달을 볼 수 있어요. **품목·내용**과 **작성자**로 검색하고, 품목·가격·수량·시간을 함께 확인하세요.
 
-이 PC가 방금 받은 사통도 먼저 보여드려요. 작성자나 품목을 누르면 해당 소식만 모아 볼 수 있어요.
+조회할 서버를 따로 고를 수 있고, 알림은 상단에서 설정한 서버로 받아요. 작성자나 품목을 누르면 해당 소식만 모아 볼 수 있어요.
 
 ![사통팔달 거래 목록](images/satong.png)
 
@@ -38,7 +38,7 @@
 
 1. 위 **Windows 설치 파일 받기**를 눌러 내려받고 실행하세요.
 2. **Npcap**이 없으면 장터지기의 안내에 따라 설치하세요.
-3. 거상에 접속하면 서버를 자동으로 확인해요. 여러 거상을 켰다면 첫 번째 거상의 서버를 기준으로 사용해요.
+3. 상단에서 알림 받을 서버를 선택하세요. 아직 선택하지 않았다면 확인된 접속 서버가 하나일 때 자동으로 설정해요.
 4. 관심 품목 또는 키워드를 등록하세요.
 
 ## 켜두면 편한 기능
