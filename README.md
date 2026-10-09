@@ -3,7 +3,7 @@
   <h1>객주 장터지기</h1>
   <p>내 사통을 객주 매물로 올리고, 웹·휴대폰·PC에서 거래 소식을 확인하세요.</p>
   <p><strong>Windows 11 · 객주 계정 연동 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.2.2/Gaekju-Jangteojigi_0.2.2_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.2.3/Gaekju-Jangteojigi_0.2.3_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
