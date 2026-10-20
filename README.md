@@ -2,8 +2,8 @@
   <img src="images/app-icon.png" alt="객주 장터지기" width="76" />
   <h1>객주 장터지기</h1>
   <p>내 사통을 객주 매물로 올리고, 웹·휴대폰·PC에서 거래 소식을 확인하세요.</p>
-  <p><strong>Windows 11 · 객주 계정 연동 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.2.10/Gaekju.Companion_0.2.10_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><strong>Windows 11 · 0.3.0 · 객주 계정 연동 · 자동 업데이트</strong></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.3.0/Gaekju-Jangteojigi_0.3.0_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
@@ -17,6 +17,14 @@
 - **내 사통 자동 등록:** 품목·가격·필수 옵션이 확인된 사통을 등록해요. 수량이 없으면 수량 협의로 등록하고 거래 전에 양쪽이 수량과 총액을 확인해요. 자동 게시 설정에서 끄거나 거래 방식을 바꿀 수 있어요.
 
 메인 화면이나 트레이 메뉴의 **객주 연결**에서 시작해주세요. 브라우저에서 확인 코드와 계정을 확인하고 승인하면 자동으로 연결돼요.
+
+## 육의전 조회와 계정 알림
+
+육의전을 장터지기에서도 바로 확인할 수 있어요. 서버를 선택하고 품목·판매자를 따로 검색해 매물과 가격을 찾아보세요.
+
+육의전 자료는 클라우드에서 수집해요. 장터지기는 이 자료를 읽으며, 게임에서 육의전을 열 때마다 수집·전송하지 않아요.
+
+내 캐릭터를 연결하고 알림을 허용하면, 내 육의전 매물보다 싼 같은 품목·조건의 매물이 확인됐을 때 내 매물당 처음 한 번 알려드려요. 같은 객주 계정으로 휴대폰 앱에 로그인하고 알림을 허용하면 휴대폰에서도 계정 알림을 받을 수 있어요.
 
 ## 원하는 품목과 가격을 등록하면, 새 사통을 알려드려요
 
