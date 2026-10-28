@@ -2,8 +2,8 @@
   <img src="images/app-icon.png" alt="객주 장터지기" width="76" />
   <h1>객주 장터지기</h1>
   <p>내 사통을 객주 매물로 올리고, 웹·휴대폰·PC에서 거래 소식을 확인하세요.</p>
-  <p><strong>Windows 11 · 0.3.0 · 객주 계정 연동 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.3.0/Gaekju-Jangteojigi_0.3.0_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><strong>Windows 11 · 0.4.0 · 객주 계정 연동 · 자동 업데이트</strong></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.4.0/Gaekju-Jangteojigi_0.4.0_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
@@ -17,6 +17,12 @@
 - **내 사통 자동 등록:** 품목·가격·필수 옵션이 확인된 사통을 등록해요. 수량이 없으면 수량 협의로 등록하고 거래 전에 양쪽이 수량과 총액을 확인해요. 자동 게시 설정에서 끄거나 거래 방식을 바꿀 수 있어요.
 
 메인 화면이나 트레이 메뉴의 **객주 연결**에서 시작해주세요. 브라우저에서 확인 코드와 계정을 확인하고 승인하면 자동으로 연결돼요.
+
+## 생산, 임무 알림
+
+이번에는 생산, 임무 알림의 화면과 설정을 먼저 배포해요. **실제 게임 자동 감지와 완료 알림은 후속 연결 후 제공돼요.**
+
+웹에서 확인: https://gaekju.app/lab/activities
 
 ## 육의전 조회와 계정 알림
 
