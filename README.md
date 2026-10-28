@@ -2,8 +2,8 @@
   <img src="images/app-icon.png" alt="객주 장터지기" width="76" />
   <h1>객주 장터지기</h1>
   <p>내 사통을 객주 매물로 올리고, 웹·휴대폰·PC에서 거래 소식을 확인하세요.</p>
-  <p><strong>Windows 11 · 0.4.0 · 객주 계정 연동 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.4.0/Gaekju-Jangteojigi_0.4.0_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><strong>Windows 11 · 0.4.1 · 객주 계정 연동 · 자동 업데이트</strong></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.4.1/Gaekju-Jangteojigi_0.4.1_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
@@ -20,7 +20,9 @@
 
 ## 생산, 임무 알림
 
-이번에는 생산, 임무 알림의 화면과 설정을 먼저 배포해요. **실제 게임 자동 감지와 완료 알림은 후속 연결 후 제공돼요.**
+생산, 임무 알림에 실제 게임 정보 수신을 연결했습니다. 인식된 캐릭터로 주막의 임무 목록과 생산시설의 작업 상세를 열면 확인된 정보를 표시합니다.
+
+마을명과 생산 완료 시각은 확인할 수 있는 정보가 있을 때만 표시합니다. 생산 예상 시간은 게임 시간의 흐름을 확인한 뒤 계산하므로 바로 나타나지 않을 수 있습니다.
 
 웹에서 확인: https://gaekju.app/lab/activities
 
