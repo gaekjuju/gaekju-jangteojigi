@@ -2,8 +2,8 @@
   <img src="images/app-icon.png" alt="객주 장터지기" width="76" />
   <h1>객주 장터지기</h1>
   <p>로그인하고 게임 알림을 휴대폰에서도 받아보세요.</p>
-  <p><strong>Windows 11 · 0.5.3 · 객주 계정 연동 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.5.3/Gaekju-Jangteojigi_0.5.3_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><strong>Windows 11 · 0.5.4 · 객주 계정 연동 · 자동 업데이트</strong></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.5.4/Gaekju-Jangteojigi_0.5.4_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
@@ -65,15 +65,17 @@
 ## 시작하는 방법
 
 1. 위 **Windows 설치 파일 받기**를 눌러 내려받고 실행하세요.
-2. **Npcap 설치 확인**이 표시되면 **설치 방법**을 열고 공식 설치 파일로 설치하세요. 설치 후 **설치했어요 · 다시 확인**을 누르면 수신을 다시 시작해요.
+2. 설치 중 게임 연결을 위한 Windows 권한 요청을 승인하면 기본 연결(WinDivert)이 준비돼요. 별도 Npcap 설치 없이 사용할 수 있어요.
 3. 상단에서 알림 받을 서버를 선택하세요. 아직 선택하지 않았다면 확인된 접속 서버가 하나일 때 자동으로 설정해요.
 4. 관심 품목 또는 키워드를 등록하세요.
+
+현재 설치 파일은 Windows 게시자 인증서를 사용하지 않아, 권한 요청에 **알 수 없는 게시자**가 표시될 수 있어요.
 
 ## 게임이 켜져 있는데 기록이 바뀌지 않나요?
 
 어느 메뉴에서든 상단의 게임 상태를 누르면 **게임 연결 점검**을 열 수 있어요. 게임 수신 준비·거상 실행·접속 서버·캐릭터 이름을 나눠 확인하고, 필요한 행동을 안내해요.
 
-Npcap 설치를 확인하지 못한 경우, 설치된 Npcap에 연결하지 못한 경우, 수신 권한이 필요한 경우를 구분해요. 매물 조회와 관심 조건 저장은 계속 이용할 수 있어요.
+기본 연결의 준비 상태와 연결 실패 원인을 구분해요. 문제가 있으면 **기본 연결 다시 준비**로 재시도하고, 계속 연결되지 않으면 **Npcap 대체 연결** 안내를 이용할 수 있어요. 매물 조회와 관심 조건 저장은 계속 이용할 수 있어요.
 
 캐릭터 이름이 확인되지 않았다면 해당 캐릭터로 전투를 한 번 마친 뒤 주막 임무 목록이나 생산시설을 다시 열어 주세요. 이름이 없어도 수신 준비가 끝난 서버의 일반 가격 알림은 받을 수 있어요.
 
