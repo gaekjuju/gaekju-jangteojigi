@@ -2,8 +2,8 @@
   <img src="images/app-icon.png" alt="객주 장터지기" width="76" />
   <h1>객주 장터지기</h1>
   <p>로그인하고 게임 알림을 휴대폰에서도 받아보세요.</p>
-  <p><strong>Windows 11 · 0.5.2 · 객주 계정 연동 · 자동 업데이트</strong></p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.5.2/Gaekju-Jangteojigi_0.5.2_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
+  <p><strong>Windows 11 · 0.5.3 · 객주 계정 연동 · 자동 업데이트</strong></p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v0.5.3/Gaekju-Jangteojigi_0.5.3_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app">객주 바로가기</a></p>
 </div>
 
 ---
