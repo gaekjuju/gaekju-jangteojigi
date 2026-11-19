@@ -6,6 +6,10 @@
   <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v1.0.0/Gaekju-Jangteojigi_1.0.0_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app/jangteojigi">장터지기 소개와 시연</a></p>
 </div>
 
+## 0.6.5 정식판 또는 0.6.17 검토판에서 업데이트
+
+앱에서 **업데이트 파일이 허용 크기를 넘었습니다**라고 나오면, [1.0.0 공식 설치 파일 받기](https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v1.0.0/Gaekju-Jangteojigi_1.0.0_x64-setup.exe)를 눌러 브라우저에서 내려받아 실행하세요. 기존 장터지기를 삭제할 필요는 없습니다. 설치 중 앱 자료를 지우는 항목이 나오면 선택을 해제하세요.
+
 ## 설치 중 Windows 확인 창이 나오면
 
 ![Windows 설치 중 확인 창의 버튼 위치](https://gaekju.app/jangteojigi/install-warning-guide.png)
@@ -15,10 +19,6 @@
 | **Windows의 PC 보호** → **추가 정보** → 파일 이름 확인 → **실행** | **알 수 없는 게시자** → 장터지기의 요청인지 확인 → **예** |
 
 이 페이지나 객주에서 받은 설치 파일을 기준으로 확인하세요. 받은 곳이 확실하지 않거나 파일 이름이 다르면 창을 닫고 다시 받으세요. [Windows 확인 창 그림 안내](https://gaekju.app/jangteojigi#install-warning)
-
-## 정식판 0.6.5 또는 검토판 0.6.17에서 옮기기
-
-위에서 1.0.0 설치 파일을 받아 실행하세요. 0.6.5에서 쓰던 육의전 조회는 1.0.0을 설치한 뒤 이용할 수 있어요. 설치 중 앱 데이터를 유지하려면 자료 지우기 항목을 선택 해제해 주세요.
 
 ## 처음 쓰기
 
