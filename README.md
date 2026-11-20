@@ -2,13 +2,13 @@
   <img src="images/app-icon.png" alt="객주 장터지기" width="76" />
   <h1>객주 장터지기</h1>
   <p>가방에서 가격을 보고, 매물 등록과 거래 채팅까지.</p>
-  <p>Windows 10·11 · 64비트 · 1.0.4</p>
-  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v1.0.4/Gaekju-Jangteojigi_1.0.4_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app/jangteojigi">장터지기 소개와 시연</a></p>
+  <p>Windows 10·11 · 64비트 · 1.0.8</p>
+  <p><a href="https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v1.0.8/Gaekju-Jangteojigi_1.0.8_x64-setup.exe"><strong>Windows 설치 파일 받기</strong></a> · <a href="https://gaekju.app/jangteojigi">장터지기 소개와 시연</a></p>
 </div>
 
 ## 0.6.5 정식판 또는 0.6.17 검토판에서 업데이트
 
-앱에서 **업데이트 파일이 허용 크기를 넘었습니다**라고 나오면, [1.0.4 공식 설치 파일 받기](https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v1.0.4/Gaekju-Jangteojigi_1.0.4_x64-setup.exe)를 눌러 브라우저에서 내려받아 실행하세요. 기존 장터지기를 삭제할 필요는 없습니다. 설치 중 앱 자료를 지우는 항목이 나오면 선택을 해제하세요.
+앱에서 **업데이트 파일이 허용 크기를 넘었습니다**라고 나오면, [1.0.8 공식 설치 파일 받기](https://github.com/gaekjuju/gaekju-jangteojigi/releases/download/companion-v1.0.8/Gaekju-Jangteojigi_1.0.8_x64-setup.exe)를 눌러 브라우저에서 내려받아 실행하세요. 기존 장터지기를 삭제할 필요는 없습니다. 설치 중 앱 자료를 지우는 항목이 나오면 선택을 해제하세요.
 
 ## 설치 중 Windows 확인 창이 나오면
 
